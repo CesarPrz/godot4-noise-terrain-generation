@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zkiSX/7hnh37b4SuVaC1vwQqLZswuSTu2uJyb2qA6ZUV1EvIMoFWqn8TDghO++oCtbxyvLnglM5x1oEysMNtug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\César\\Documents\\Code\\Tutorial Godot\\SimplexNoiseCsharp\\Tutorial Godot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\César\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godot.sourcegenerators\\4.0.0-beta2\\godot.sourcegenerators.4.0.0-beta2.nupkg.sha512",
+    "C:\\Users\\César\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharp\\4.0.0-beta2\\godotsharp.4.0.0-beta2.nupkg.sha512",
+    "C:\\Users\\César\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharpeditor\\4.0.0-beta2\\godotsharpeditor.4.0.0-beta2.nupkg.sha512"
+  ],
+  "logs": []
+}

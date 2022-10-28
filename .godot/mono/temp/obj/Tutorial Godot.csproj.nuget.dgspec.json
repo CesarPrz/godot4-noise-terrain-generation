@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\César\\Documents\\Code\\Tutorial Godot\\SimplexNoiseCsharp\\Tutorial Godot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\César\\Documents\\Code\\Tutorial Godot\\SimplexNoiseCsharp\\Tutorial Godot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\César\\Documents\\Code\\Tutorial Godot\\SimplexNoiseCsharp\\Tutorial Godot.csproj",
+        "projectName": "Tutorial Godot",
+        "projectPath": "C:\\Users\\César\\Documents\\Code\\Tutorial Godot\\SimplexNoiseCsharp\\Tutorial Godot.csproj",
+        "packagesPath": "C:\\Users\\César\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\César\\Documents\\Code\\Tutorial Godot\\SimplexNoiseCsharp\\.godot\\mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\César\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\César\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\César\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Godot.SourceGenerators": {
+              "target": "Package",
+              "version": "[4.0.0-beta2, )"
+            },
+            "GodotSharp": {
+              "target": "Package",
+              "version": "[4.0.0-beta2, )"
+            },
+            "GodotSharpEditor": {
+              "target": "Package",
+              "version": "[4.0.0-beta2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

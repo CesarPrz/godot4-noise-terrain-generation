@@ -1,0 +1,17 @@
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\bin\Debug\Tutorial Godot.deps.json
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\bin\Debug\Tutorial Godot.runtimeconfig.json
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\bin\Debug\Tutorial Godot.dll
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\bin\Debug\Tutorial Godot.pdb
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\Tutorial Godot.csproj.AssemblyReference.cache
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\Tutorial Godot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\Tutorial Godot.AssemblyInfoInputs.cache
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\Tutorial Godot.AssemblyInfo.cs
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\Tutorial Godot.csproj.CoreCompileInputs.cache
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\Tutorial Godot.csproj.CopyComplete
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\Tutorial Godot.dll
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\refint\Tutorial Godot.dll
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\Tutorial Godot.pdb
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\Tutorial Godot.genruntimeconfig.cache
+C:\Users\César\Documents\Code\Tutorial Godot\SimplexNoiseCsharp\.godot\mono\temp\obj\Debug\ref\Tutorial Godot.dll

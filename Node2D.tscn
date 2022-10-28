@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=3 uid="uid://c0ujru63gmxot"]
+
+[ext_resource type="Texture2D" uid="uid://dl6wpkgef7m37" path="res://tileset_terrain.png" id="1"]
+[ext_resource type="Script" path="res://MapGenerator.cs" id="2_4xoky"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_lhwmf"]
+texture = ExtResource("1")
+0:0/0 = 0
+2:0/0 = 0
+0:2/0 = 0
+2:2/0 = 0
+0:4/0 = 0
+2:4/0 = 0
+
+[sub_resource type="TileSet" id="1"]
+sources/0 = SubResource("TileSetAtlasSource_lhwmf")
+
+[node name="Node2D" type="Node2D"]
+
+[node name="TileMap" type="TileMap" parent="."]
+tile_set = SubResource("1")
+format = 2
+script = ExtResource("2_4xoky")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
